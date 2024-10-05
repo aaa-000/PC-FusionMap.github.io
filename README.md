@@ -4,8 +4,8 @@
 and Multimodal Fusion Approach for HD Map
 Construction</h3>
   
-Zihao Liu<sup>1*</sup>, 
-[Xiaoyu Zhang](https://fishmarch.github.io)<sup>2*</sup>, 
+Zhenjie Duan<sup>1*</sup>, 
+[Yaoming Zhuang ]<sup>2*</sup>, 
 Guangwei Liu<sup>3*</sup>,
 [Ji Zhao](https://sites.google.com/site/drjizhao/)<sup>3#</sup>,
 [Ningyi Xu](http://www.qingyuan.sjtu.edu.cn/a/xu-ning-yi-1.html)<sup>1#</sup>
