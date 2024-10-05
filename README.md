@@ -18,6 +18,6 @@ Zhanlin Liu<sup>b</sup>
 
 <sup>*</sup>Equal contribution. <sup>#</sup>Corresponding author.
 
-<div align="right">
+<div align="left">
 <h1>Overview</h1>
 
