@@ -1,3 +1,6 @@
+
+These Dataset keep the same as [MapTRv2](https://github.com/hustvl/MapTR/tree/maptrv2)
+
 ## NuScenes
 
 Download nuScenes V1.0 full dataset data  and CAN bus expansion data [HERE](https://www.nuscenes.org/download). Prepare nuscenes data by running
