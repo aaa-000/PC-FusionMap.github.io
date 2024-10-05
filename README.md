@@ -37,10 +37,10 @@ High-definition (HD) maps are crucial for autonomous driving, supporting decisio
 
 #### Argoverse 2 dataset
 
-| Method | Backbone | Epoch | dim  | mAP1 | mAP2 | 
-| :----: | :------: | :---: | :--: | :--: | :--: | 
-| MapQR  |   R50    |   6   |  2   | 44.8 | 68.1 | 
-| MapQR  |   R50    |   6   |  3   | 41.2 | 65.4 | 
+| Method | Backbone | Epoch | mAP1 | mAP2 | 
+| :----: | :------: | :---: | :--: | :--: | 
+| MapQR  |   R50    |   6   | 44.8 | 68.1 | 
+| MapQR  |   R50    |   6   | 41.2 | 65.4 | 
 
 
 
