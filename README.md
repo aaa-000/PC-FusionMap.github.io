@@ -23,8 +23,7 @@ Zhanlin Liu <sup>b</sup>
   
 ## Overview
 aaaaaa
-![PDF 预览](assets/总体结构.pdf)
-
+![pipeline](assets/总体结构.jpg "pipeline")
 
 
 
