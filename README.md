@@ -23,7 +23,9 @@ Zhanlin Liu <sup>b</sup>
   
 ## Overview
 ![pipeline](assets/总体结构 .jpg)
-
+<div  align="center"> 
+<img src="assets/assets/总体结构 .jpg" width = "500">
+</div>
 
 
 ## Dataset
