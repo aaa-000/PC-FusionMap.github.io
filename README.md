@@ -28,6 +28,10 @@ aaaaaa
 ## Getting Started
 
 These settings keep the same as [MapTRv2](https://github.com/hustvl/MapTR/tree/maptrv2)
+- [Installation](docs/install.md)
+- [Prepare Dataset](docs/prepare_dataset.md)
+- [Train and Eval](docs/train_eval.md)
+- [Visualization](docs/visualization.md)
 
 
 
