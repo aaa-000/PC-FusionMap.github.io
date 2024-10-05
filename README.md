@@ -22,8 +22,7 @@ Zhanlin Liu <sup>b</sup>
 <div align="left">
   
 ## Overview
-aaaaaa
-![pipeline](assets/总体结构 .jpg "pipeline")
+![pipeline](assets/总体结构 .jpg)
 
 
 
