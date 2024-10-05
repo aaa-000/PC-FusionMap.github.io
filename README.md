@@ -25,3 +25,14 @@ aaaaaa
 <div align="left">
 <h1>Prepare Dataset</h1>
 [Prepare Dataset](docs/prepare_dataset.md)
+
+## Getting Started
+
+These settings keep the same as [MapTRv2](https://github.com/hustvl/MapTR/tree/maptrv2)
+
+
+
+
+
+
+
