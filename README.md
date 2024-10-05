@@ -27,7 +27,6 @@ aaaaaa
 
 ## Dataset
 
-These Dataset keep the same as [MapTRv2](https://github.com/hustvl/MapTR/tree/maptrv2)
 - [Prepare Dataset](docs/prepare_dataset.md)
 
 
