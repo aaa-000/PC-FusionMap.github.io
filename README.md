@@ -18,13 +18,9 @@ Zhanlin Liu<sup>b</sup>
 
 <sup>*</sup>Equal contribution. <sup>#</sup>Corresponding author.
 
-<div align="left">
-<h1>Overview</h1>
+## Overview
 aaaaaa
 
-<div align="left">
-<h1>Prepare Dataset</h1>
-[Prepare Dataset](docs/prepare_dataset.md)
 
 ## Getting Started
 
