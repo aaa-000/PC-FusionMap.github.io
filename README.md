@@ -7,14 +7,13 @@ Construction</h3>
 
 
 
-Zhenjie Duan<sup>a,b*</sup>, 
+Zhenjie Duan<sup>a*</sup>, 
 [Yaoming Zhuang](http://faculty.neu.edu.cn/zhuangyaoming/)<sup>a*#</sup>, 
-Li Li<sup>c</sup>,
+Li Li<sup>a</sup>,
 Chengdong Wu<sup>a</sup>,
-Zhanlin Liu<sup>d</sup>
+Zhanlin Liu<sup>b</sup>
 
-<sup>1</sup> Shanghai Jiao Tong University, 
-<sup>2</sup> The Chinese University of Hong Kong, 
-<sup>3</sup> Huixi Technology
+<sup>a</sup> Northeastern University, 
+<sup>b</sup> AstrumU
 
 <sup>*</sup>Equal contribution. <sup>#</sup>Corresponding author.
