@@ -22,9 +22,9 @@ Zhanlin Liu <sup>b</sup>
 <div align="left">
   
 ## Overview
-![pipeline](assets/总体结构 .jpg)
+![pipeline](assets/overview_pipeline.jpg)
 <div  align="center"> 
-<img src="assets/assets/总体结构 .jpg" width = "500">
+<img src="assets/assets/overview_pipeline.jpg" width = "500">
 </div>
 
 
