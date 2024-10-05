@@ -32,15 +32,15 @@ High-definition (HD) maps are crucial for autonomous driving, supporting decisio
 
 | Method | Backbone | Epoch | mAP1 | mAP2 | 
 | :----: | :------: | :---: | :--: | :--: | 
-| MapQR  |   R50    |  24   | 43.3 | 66.4 | 
-| MapQR  |   R50    |  110  | 50.5 | 72.6 | 
+| PC-FusionMap  |   R50    |  24   | 41.1 | 65.7 | 
+| PC-FusionMap  |   R50    |  110  | 47.2 | 71.3 | 
 
 #### Argoverse 2 dataset
 
 | Method | Backbone | Epoch | mAP1 | mAP2 | 
 | :----: | :------: | :---: | :--: | :--: | 
-| MapQR  |   R50    |   6   | 44.8 | 68.1 | 
-| MapQR  |   R50    |   6   | 41.2 | 65.4 | 
+| PC-FusionMap  |   R50    |   6   | 45.4 | 70.5 | 
+| PC-FusionMap  |   R50    |   24   | 49.5 | 73.9 | 
 
 
 
