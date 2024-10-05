@@ -9,9 +9,9 @@ Construction</h3>
 
 Zhenjie Duan<sup>a,b*</sup>, 
 [Yaoming Zhuang](http://faculty.neu.edu.cn/zhuangyaoming/)<sup>a*#</sup>, 
-Guangwei Liu<sup>3*</sup>,
-[Ji Zhao](https://sites.google.com/site/drjizhao/)<sup>3#</sup>,
-[Ningyi Xu](http://www.qingyuan.sjtu.edu.cn/a/xu-ning-yi-1.html)<sup>1#</sup>
+Li Li<sup>c</sup>,
+Chengdong Wu<sup>a</sup>,
+Zhanlin Liu<sup>d</sup>
 
 <sup>1</sup> Shanghai Jiao Tong University, 
 <sup>2</sup> The Chinese University of Hong Kong, 
