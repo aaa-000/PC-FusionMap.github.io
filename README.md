@@ -23,9 +23,7 @@ Zhanlin Liu <sup>b</sup>
   
 ## Overview
 ![pipeline](assets/overview_pipeline.jpg)
-<div  align="center"> 
-<img src="assets/assets/overview_pipeline.jpg" width = "500">
-</div>
+
 
 
 ## Dataset
