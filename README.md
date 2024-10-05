@@ -5,8 +5,8 @@ and Multimodal Fusion Approach for HD Map
 Construction</h3>
   
 Zhenjie Duan<sup>a,b*</sup>, 
-[Yaoming Zhuang](http://faculty.neu.edu.cn/zhuangyaoming/)<sup>a*,#</sup>, 
-Guangwei Liu<sup>3*</sup>,
+[Yaoming Zhuang](http://faculty.neu.edu.cn/zhuangyaoming/)<sup>a,*,*, 
+Li Li Liu<sup>c</sup>,
 [Ji Zhao](https://sites.google.com/site/drjizhao/)<sup>3#</sup>,
 [Ningyi Xu](http://www.qingyuan.sjtu.edu.cn/a/xu-ning-yi-1.html)<sup>1#</sup>
 
